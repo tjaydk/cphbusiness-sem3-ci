@@ -11,6 +11,7 @@ public class MyFunctionalityTest {
 
   @Test
   public void testFunctionality() {
+      
     assertEquals(10, MyFunctionality.giveMeTen());
   }
 
